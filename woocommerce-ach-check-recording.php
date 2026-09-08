@@ -1,8 +1,10 @@
 <?php
 /**
- * Plugin Name:       WooCommerce ACH & Check Recording
- * Description:       Adds an order sidebar panel for recording Check or ACH payment details.
- * Version:           1.0.0
+ * Plugin Name: WooCommerce ACH & Check Recording
+ * Description: Adds an order sidebar panel for recording Check or ACH payment details.
+ * Version: 1.0.0
+ * Author: FirstTracks Marketing
+ * Author URI: https://firsttracksmarketing.com
  */
 
 use Automattic\WooCommerce\Utilities\FeaturesUtil;
