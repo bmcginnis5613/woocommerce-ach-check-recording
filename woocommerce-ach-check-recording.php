@@ -3,14 +3,6 @@
  * Plugin Name:       WooCommerce ACH & Check Recording
  * Description:       Adds an order sidebar panel for recording Check or ACH payment details.
  * Version:           1.0.0
- * Requires at least: 6.2
- * Requires PHP:      7.4
- * Requires Plugins:  woocommerce
- * Author:            Brandon McGinnis
- * License:           GPL-2.0-or-later
- * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain:       woocommerce-ach-check-recording
- * Domain Path:       /languages
  */
 
 use Automattic\WooCommerce\Utilities\FeaturesUtil;
