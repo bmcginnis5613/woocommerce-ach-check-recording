@@ -1,0 +1,8 @@
+#wac-order-payment-details .inside {
+	margin-top: 0;
+}
+
+.wac-payment-details label {
+	display: block;
+	margin-bottom: 4px;
+}
